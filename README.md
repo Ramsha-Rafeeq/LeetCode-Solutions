@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ramsha-Rafeeq/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/Ramsha-Rafeeq/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ramsha-Rafeeq/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ramsha-Rafeeq/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ramsha-Rafeeq/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
